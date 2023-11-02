@@ -1,0 +1,56 @@
+/*importação de fonte*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;400&display=swap');
+
+    body{
+        margin: 0px;
+        padding: 0px;
+    }        
+
+    #principal{
+    width: 100%;
+    height: 100px;
+    border: 1px solid black;
+    background-color: #303030;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #bababa;
+    } 
+
+        #menu{
+            display: flex;
+            width: 45%;
+            justify-content: space-around;
+            align-items: center;  
+            margin-left: 5%;
+
+        }
+
+        #principal div a{
+        color: white;
+        font-size: 25px;
+        font-weight: 600px;
+        text-decoration: none;
+        font-family: 'Inter';
+        }
+
+        #principal div a:hover{ /* pseudo classe. altera a cor quando passa o mouse no link */
+            color: #cccccc;
+        }
+
+        #principal button{
+        margin-right: 5%;
+        background-color: #0C70F2;
+        font-size: 20px;
+        font-family: 'Inter';
+        color: white;
+        font-weight: 600px;
+        border: 0px;
+        height: 40px;
+        width: 80px;
+
+        box-shadow: 3px 2px 4px 0px #0C70F240;
+
+        cursor: pointer;
+        
+        }
