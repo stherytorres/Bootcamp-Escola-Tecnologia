@@ -4,7 +4,7 @@
 O projeto consiste em uma Landing page criada para um BootCamp de uma Escola de Tecnologia. <br>
 Utilizando as tecnologias: <br>
 HTML: Seletores e edição de placeholder <br>
-CSS: opacity, text indent, linear gradient, flexbox, media query <br>
+CSS: Opacity, text indent, linear gradient, flexbox, media query <br>
 
 ## Pré-requisitos: <br>
 Antes de começar, certifique-se de ter instalado em sua máquina:<br>
@@ -12,8 +12,13 @@ Antes de começar, certifique-se de ter instalado em sua máquina:<br>
 - VS Code
 
 ## Uso: <br>
-Após instalar o VS Code, instale a extensão 'Live Server'. <br>
-Abra a pasta do projeto no VS Code e pressione as teclas 'Ctrl + Shift + P' para abrir o projeto no seu navegador. <br>
+* Após instalar o VS Code, instale a extensão 'Live Server'.<br>
+* Crie uma pasta no seu computador: 'minha-pasta'<br>
+* Abra 'minha-pasta' no VS Code<br>
+* Abra o terminal no VS Code<br>
+* Clone o repositório: $ git clone https://github.com/stherystyll/Bootcamp-dnc.git<br>
+* Pressione as teclas 'ctrl + shift + p' para abrir o projeto no seu navegador.<br>
+
 
 Link do site: [BootCamp Tech School](https://bootcamp-tech-school.netlify.app/) <br>
 
