@@ -4,7 +4,7 @@
 O projeto consiste em uma Landing page criada para um BootCamp de uma Escola de Tecnologia. 
 <br>
 
-<img width="49%" src="https://github.com/stheryalves/Bootcamp-Escola-Tecnologia/assets/134507985/9c1c995c-4a00-48c9-a049-d3334168d610" > 
+<img width="50%" src="https://github.com/stheryalves/Bootcamp-Escola-Tecnologia/assets/134507985/9c1c995c-4a00-48c9-a049-d3334168d610" > 
 
 <br>
 Utilizando as tecnologias: <br>
