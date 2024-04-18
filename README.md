@@ -16,7 +16,7 @@ Antes de começar, certifique-se de ter instalado em sua máquina:<br>
 * Crie uma pasta no seu computador: 'minha-pasta'<br>
 * Abra 'minha-pasta' no VS Code<br>
 * Abra o terminal no VS Code<br>
-* Clone o repositório: $ git clone https://github.com/stherystyll/Bootcamp-dnc.git<br>
+* Clone o repositório: $ git clone https://github.com/stherystyll/Bootcamp-Escola-Tecnologia.git<br>
 * Pressione as teclas 'ctrl + shift + p' para abrir o projeto no seu navegador.<br>
 
 
